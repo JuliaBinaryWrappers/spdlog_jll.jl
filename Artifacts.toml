@@ -1,0 +1,316 @@
+[[spdlog]]
+arch = "aarch64"
+git-tree-sha1 = "d1fcb1eb4b16755dfd426d8072aaed85ad72d71e"
+os = "macos"
+
+    [[spdlog.download]]
+    sha256 = "ba04f4faddb5411538e0c3c4cec36c28e1c6982a9ce14fea55e6cd17ee58a418"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.aarch64-apple-darwin.tar.gz"
+[[spdlog]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af6456e1da28ab91f99c6a28ecc0462ce333de72"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "fab9259bd66df8888a22920fcb666ff6f425cc0275b844d0c43bfd93c0b9da15"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[spdlog]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6eeeb69bbed22753bd303ed155da1a43b889de97"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "8b0afacd2f7bdde9384ba53f0c8a70d41fa0146e64550e3aeaf2b54650c7e07c"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[spdlog]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cf6af7d18895694c861b9ba8b9134ae14a732d1e"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "d58403b40ae39f6f52b766e94c5b344eced36138f577bf1b7343571883dfc380"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.aarch64-linux-musl-cxx03.tar.gz"
+[[spdlog]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e555821541fa8289884d2ab8f09d0a79164b85b2"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "4b2bc4e2ac5fc41b065503c31236d8d0868fa5a31bf7eec2dffd628627de57dd"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.aarch64-linux-musl-cxx11.tar.gz"
+[[spdlog]]
+arch = "aarch64"
+git-tree-sha1 = "abf6e22f07155808dd8ede6bf850f64970dc5a8c"
+os = "freebsd"
+
+    [[spdlog.download]]
+    sha256 = "6622c1b95918bda3a082072348abe28bc87a785c53f79886c7ef4d3e02ebb61c"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.aarch64-unknown-freebsd.tar.gz"
+[[spdlog]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "822f83f470da9fda678060e760175abde47d2415"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "d5c4f08bb23ca625a0f3da2dcad7b8f19aeddf1ce859e8a64cbebe66bc809f85"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[spdlog]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8c01b47d8b6b9d3dfe6c92d3d1dc10de3de60b4"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "080336e39b4a8e9a36f8de25332dd2bf5c051874aacbad4119a7a4a4f30fc707"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[spdlog]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "05eb9d7f5c6d380c2121c34636cb44837edb4aac"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "0433b51936fe994a10369a2a9026e6506b43e6c5aa1ab8183180f90b320be5f5"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[spdlog]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7d15c23731bcc74c6827f924502e00f29f1b19d"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "ffcb8d9a49ece87b728d5720046616159b5e2199cdaaa3227399c58aed78d722"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[spdlog]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ed47ae60531ba2b15e08d2326d82856e4eec30b3"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "2025adca77379bb7fb587cec6c61a9618e7c4634329746301c7bec5e7bbd5cfb"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[spdlog]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf9659d2dbfe5e63e1fe759ecf5ed385f26cba72"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "1fc319c9a5a8480ee8456be2a0a560ebcdba9d09ed498e1fddf2c0e324f8b0d8"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[spdlog]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eae31e7de2b78c9fad7c4f1e6ff322b36b8e92bd"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "f1caa3cc59c2427c56ad0281d0e134db8a7a906c2d36f75b739aa986f61cec59"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[spdlog]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba7d35e74a595c7a8784a873dc328be2af17d5ed"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "0acf8f43cc3107d32765dcf6ec94fbe5cf79916c0cefafde47e31dfd42d10841"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[spdlog]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c582d15936f5cf568ae02db93f4be2b471f14b5"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "ae3a83269579340939cb109aa81c29906bc2fcce915f81468d00da87b5d4972d"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.i686-linux-gnu-cxx03.tar.gz"
+[[spdlog]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "327636b8bd819265b7d4452d205d772f95ef4fe8"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "aefe25f4b267b9d9d4f4e021fab8a927b11014f19d94aa32be2ecfc8d60562b9"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.i686-linux-gnu-cxx11.tar.gz"
+[[spdlog]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2a5a0a520e5b218017ae023071e685cdb915d0c5"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "3fc94935828dc8402d442049bb48dbd143fa4d641f353aa1a654fe735caa3e4a"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.i686-linux-musl-cxx03.tar.gz"
+[[spdlog]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a8226c57a96c620759e33fae8b4051f2a9550ea"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "7556fd1a36cbf37e05481700ca0db75d1131c63107d058b3795f3bc2bfd5ff74"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.i686-linux-musl-cxx11.tar.gz"
+[[spdlog]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3011fc7bd569a6c661bf45eb51044d47169ca826"
+os = "windows"
+
+    [[spdlog.download]]
+    sha256 = "cc7a8e5c707cd1cdd65fc49340fe612968fb9f60f57619aec22ef5c49a87c60a"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.i686-w64-mingw32-cxx03.tar.gz"
+[[spdlog]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e283dde61381eafb79ab782398810c4198c78947"
+os = "windows"
+
+    [[spdlog.download]]
+    sha256 = "6fc0325d67010fdeb5a152e491d0cc6fb441397de2a6c3142b354e10840e336e"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.i686-w64-mingw32-cxx11.tar.gz"
+[[spdlog]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e990cabaa6095ca92ec1e9c3fae0ccf165b26db"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "3ec8f7add0d1131a2641465861fb750483ed7c23fcc55f4382060065f80fd6e9"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[spdlog]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef1dbfe76aae63ec570e633806931555ad825349"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "b5eaded40e014fb0724529efc78bcc6041c709adf89cb17092fa5521aecbffe1"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[spdlog]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4cf3b32b1d49af68ae7a51043120f18016160a6f"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "a7934e9329c0d7e8cbbeabde9f348ba553df27238ca2386cb740522dad44c505"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[spdlog]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9492b3dd4af799c35df5ee797e1bcef8c55198ed"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "8042b5740ef597f1d3bf3e5af78420a6fae5e6cbf680154668549b623a4a5343"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[spdlog]]
+arch = "x86_64"
+git-tree-sha1 = "7d368317c0af8d376b42d9d8e9d74f3fc95cabce"
+os = "macos"
+
+    [[spdlog.download]]
+    sha256 = "f0302935e8b7ba876eece8dfb3d22a98996b2dff5015f670c5494134ea429ced"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.x86_64-apple-darwin.tar.gz"
+[[spdlog]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "17164ac64abc9fbb842c9bf6f9e9017a8202026a"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "508571729182219a005b87b9280777fa251a6be9ef37dc83efccf5630e90e811"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[spdlog]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "77a1254c15cec2add50e9779e2df6eeace867d51"
+libc = "glibc"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "5a3b03e5c3ff0da815399261320b86b40cbd319b3ae8927d835f2cfd56c888d6"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[spdlog]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "45e67ff2e2350b4399443fb18e5c4cd557bb02c0"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "1d5940219e030d578199239992ec853b53713a4d6738a1604f1db00da525fd0c"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.x86_64-linux-musl-cxx03.tar.gz"
+[[spdlog]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb171f9da34d3e226b6e2066eece2a8751dbc359"
+libc = "musl"
+os = "linux"
+
+    [[spdlog.download]]
+    sha256 = "3152381541e102f11cebce32335b48d1b6ed5718901fd929c9bd913e801f4681"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.x86_64-linux-musl-cxx11.tar.gz"
+[[spdlog]]
+arch = "x86_64"
+git-tree-sha1 = "16e999d7fab59c0579206a3549107c26071e84ef"
+os = "freebsd"
+
+    [[spdlog.download]]
+    sha256 = "c8a0ec2efc9e6bf64a5a5b4096ed92f08b884a44a672f324418b99db23b95fd9"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.x86_64-unknown-freebsd.tar.gz"
+[[spdlog]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "180c850353596248faafd62292b1b3296141f8b5"
+os = "windows"
+
+    [[spdlog.download]]
+    sha256 = "3c3cbd1ff3ec5c5968bf945777d310e45f6ef5a411ff17830ccbc08e4b49c7e4"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[spdlog]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5cd8eda6d19abb72ec0aaf21cce2003280bf28dd"
+os = "windows"
+
+    [[spdlog.download]]
+    sha256 = "434ca0c85187185e660a79318ef9835d1e46dce5d2cbb2b00ccb797461353a62"
+    url = "https://github.com/JuliaBinaryWrappers/spdlog_jll.jl/releases/download/spdlog-v1.15.0+0/spdlog.v1.15.0.x86_64-w64-mingw32-cxx11.tar.gz"
